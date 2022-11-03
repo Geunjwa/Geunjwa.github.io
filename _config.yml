@@ -10,9 +10,9 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "Millennial"
-description:	       "a minimalist Jekyll theme for running a blog or publication"
-author:              "Paul Le"
+title:		           "1일 1포스팅 가능? 아 가능~"
+description:	       "꾸준히 공부하자~"
+author:              "Geunjwa"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
