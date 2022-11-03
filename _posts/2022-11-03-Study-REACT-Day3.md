@@ -25,7 +25,7 @@ const element2 = {
 };
 {% endhighlight %}
 
-JSX 내부에 JAVASCRIPT표현식을 쓰고 싶다면 ==>> {} 중괄호 안에 넣으면 된다.
+JSX 내부에 JAVASCRIPT표현식을 쓰고 싶다면, {} 중괄호 안에 넣으면 된다.
 element1처럼, 변수 명을 넣을 수도 있고
 element2처럼, 함수를 넣을 수도 있다.
 심지어 또다른 JSX도 넣을 수 있다고 한다.
