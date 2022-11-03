@@ -4,7 +4,7 @@ title: "REACT - Day3"
 author: "Geunjwa"
 categories: sample
 tags: [sample]
-image: city-1.jpg
+image: REACT - DAY3.PNG
 ---
 
 # REACT day3
